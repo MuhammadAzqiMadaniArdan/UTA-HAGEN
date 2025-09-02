@@ -1,0 +1,3 @@
+Copyright Assets
+<a href="https://assetstore.unity.com/packages/3d/props/surveillance-camera-264577">AK Studio Art : Surveillance Camera</a>
+<a href="https://assetstore.unity.com/packages/3d/props/surveillance-camera-264577">Nappin : Office Pack</a>
