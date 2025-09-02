@@ -93,9 +93,3 @@ First-person stealth game dengan sistem event, dialog choices, dan multiple endi
 - ESC: Emergency close laptop
 - Space: Jump
 
-## Game Balance
-
-- Greed Level: Increased by successful transactions
-- Suspicion Level: Increased by detection, failed events
-- Story Progress: Advanced by successful event completion
-- Multiple endings unlock based on final levels
